@@ -1,6 +1,6 @@
 # Overview
 - Current Code for our 1961 D VEX Team
-- Includes a intertial based PID autonomous program, pneumatic control, and various motor control
+- Includes a inertial based PID autonomous program, pneumatic control, and various motor control
 # Build
 - Simply download VSCode and look for the "PROS" extension
 - Then download/clone the repository into your VSCode editor
